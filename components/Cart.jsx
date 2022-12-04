@@ -86,6 +86,7 @@ const Cart = () => {
                     <label>
                       <h6>Marime</h6>
                         <h6>{item.size}</h6>
+                        <h3>{item.size}</h3>
                     </label>
                     <button
                     type="button"
